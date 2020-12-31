@@ -1,0 +1,13 @@
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\bin\Debug\netcoreapp3.1\8050_Assign3.exe
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\bin\Debug\netcoreapp3.1\8050_Assign3.deps.json
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\bin\Debug\netcoreapp3.1\8050_Assign3.runtimeconfig.json
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\bin\Debug\netcoreapp3.1\8050_Assign3.runtimeconfig.dev.json
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\bin\Debug\netcoreapp3.1\8050_Assign3.dll
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\bin\Debug\netcoreapp3.1\8050_Assign3.pdb
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.csprojAssemblyReference.cache
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.AssemblyInfoInputs.cache
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.AssemblyInfo.cs
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.csproj.CoreCompileInputs.cache
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.dll
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.pdb
+C:\Users\Savrav Khan\source\repos\8050_Assign3\8050_Assign3\obj\Debug\netcoreapp3.1\8050_Assign3.genruntimeconfig.cache
